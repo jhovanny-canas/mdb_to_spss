@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://B:/Paulina/.idea/Paulina.iml" filepath="B:/Paulina/.idea/Paulina.iml" />
+      <module fileurl="file://B:/accespython/.idea/accespython.iml" filepath="B:/accespython/.idea/accespython.iml" />
+      <module fileurl="file://B:/firmasSag/.idea/firmasSag.iml" filepath="B:/firmasSag/.idea/firmasSag.iml" />
+      <module fileurl="file://B:/formato_previva/.idea/formato_previva.iml" filepath="B:/formato_previva/.idea/formato_previva.iml" />
+      <module fileurl="file://B:/pdfSag/.idea/pdfSag.iml" filepath="B:/pdfSag/.idea/pdfSag.iml" />
+      <module fileurl="file://C:/Python27/Lib/site-packages/savReaderWriter-3.1.2b-py2.7.egg/.idea/savReaderWriter-3.1.2b-py2.7.egg.iml" filepath="C:/Python27/Lib/site-packages/savReaderWriter-3.1.2b-py2.7.egg/.idea/savReaderWriter-3.1.2b-py2.7.egg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spss_python.iml" filepath="$PROJECT_DIR$/.idea/spss_python.iml" />
+    </modules>
+  </component>
+</project>
+
